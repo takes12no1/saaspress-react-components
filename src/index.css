@@ -56,6 +56,10 @@ table {
   padding: 0;
 }
 
+.navigation li a {
+  text-decoration: none;
+}
+
 .componentpage {
   margin-left: 275px;
 }

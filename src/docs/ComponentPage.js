@@ -8,8 +8,8 @@ const ComponentPage = ({component}) => {
 
   return (
     <div className="componentpage">
-      <h2>{name}</h2>
-      <p>{description}</p>
+      <h2>ComponentName: {name}</h2>
+      <p>Description: {description}</p>
 
       <h3>Example{examples.length > 1 && "s"}</h3>
       {
