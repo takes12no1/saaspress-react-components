@@ -1,9 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import CodeExample from './CodeExample';
-
-// This way is easy, but adds 214K gzipped to bundle since all langs are included.
-// import Highlight from 'react-highlight';
+import CodeExample from './CodeExample';
 
 class Example extends React.Component {
   constructor(props) {
