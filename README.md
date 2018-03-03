@@ -17,3 +17,7 @@ npm install saaspress-react-components
 
 ## Docs
 [Component documentation](https://takes12no1.github.io/saaspress-react-components/)
+
+
+## Unit Testing
+[Results](https://travis-ci.org/takes12no1/saaspress-react-components)
