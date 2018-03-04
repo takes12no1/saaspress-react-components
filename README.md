@@ -12,6 +12,18 @@ A library of React components used for adding React frontend functionality to Wo
 npm install saaspress-react-components
 ```
 
+
+## Supported Import Approaches
+
+Named import (will be full file size)
+```
+import {label} from 'saaspress-react-components';
+```
+Import from /lib (imports only said component so smaller file size)
+```
+import label from 'saaspress-react-component/lib/Label';
+```
+
 ## Issues and Feedback
 [Here's a list of current known issues. We value your feedback ](https://github.com/takes12no1/saaspress-react-components/issues).
 
